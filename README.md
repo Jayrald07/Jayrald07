@@ -1,3 +1,3 @@
 <img src="https://github.com/Jayrald07/Jayrald07/blob/13ff422891e470dfd388c03a68ea9dfd2b207429/Github%20Profile%20Banner.png" align="center"/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geraldempino@gmail.com)
+<!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geraldempino@gmail.com) -->

@@ -7,6 +7,7 @@ I'm an epxlorer who tries wide range of technological possibilities from web dev
 </p>
 
 <p align="center">
+<img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="25" /></br>
 <b>Connect with me</b>
 <p align="center">
 <a href="https://www.linkedin.com/in/jayrald-empino-861586121/">

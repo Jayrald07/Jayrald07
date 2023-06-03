@@ -8,8 +8,6 @@ I'm an epxlorer of wide range of technological possibilities from web developmen
 ### Hi there 👋
 * 👂 My name is **Jayrald Empino**. You can call me _**Gerald**_.
 * 🧑 Pronouns: He/Him
-* 💪 I’m currently working on my Thesis (\*Dying inside\*)
-* 📚 I’m currently learning Hyperledger Fabric Blockchain
 <!-- * 🤝 I’m looking to collaborate on ... -->
 <!-- * 🤔 I’m looking for help with ... -->
 * 💬 Ask me about Web Development and Cloud Computing stuffs
@@ -52,4 +50,5 @@ I'm an epxlorer of wide range of technological possibilities from web developmen
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="25"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="25"/>
+<img src="https://repository-images.githubusercontent.com/66573241/e4a04d80-cd1c-11e9-8af2-786d342820bb" width="75"/>
 </p>
